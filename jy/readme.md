@@ -8,7 +8,7 @@
 |             |学习                                             
 |--------|--------|
 |过程 | `没有任何复杂的过程。从b站搜教程，然后进行学习`  |
-|经历 | `emmm，我应该没啥经历`                     |           
+|经历 | `emmm，经历就是搞了好久，终于有点懂git是干什么用的了`|           
 |实践 | `尝试了几次把自己的东西传到github上，应该算是挺成功的吧`|
 ---
 ## 2.markdown
@@ -38,8 +38,7 @@ $$\lim_{n\rightarrow\infty}\frac{\sin(x)} {x}= 1$$
 
 *==**<u>Terraria</u>**==*
 
-![terraria](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnewsimg.5054399.com%2Fuploads%2Fuserup%2F1705%2F0QJ515OQ.jpg&refer=http%3A%2F%2Fnewsimg.5054399.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666364845&t=c51464dda707a3d4719f344142dcdf93 "我爱泰拉瑞亚")
-<iframe height=300 width=500 src='//player.bilibili.com/player.html?aid=458366932&bvid=BV1N5411p7uc&cid=270075511&page=1'  > </iframe>
+[![terraria](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnewsimg.5054399.com%2Fuploads%2Fuserup%2F1705%2F0QJ515OQ.jpg&refer=http%3A%2F%2Fnewsimg.5054399.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666364845&t=c51464dda707a3d4719f344142dcdf93 )](https://www.bilibili.com/video/BV1JA411h7Gw/?share_source=copy_web&vd_source=a702d70d47d1117d6b9c67df7d3ccbfc)
 
 ---
 [**我滴任务完成啦**](#任务一)
