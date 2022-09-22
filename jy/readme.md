@@ -42,4 +42,4 @@ $$\lim_{n\rightarrow\infty}\frac{\sin(x)} {x}= 1$$
 
 ---
 [**我滴任务完成啦**](#任务一)
-[^下标]:没搜到下标怎么打:sweat_smile:。
+[^下标]:不小心就打错了，于是用一用标注:sweat_smile:。
