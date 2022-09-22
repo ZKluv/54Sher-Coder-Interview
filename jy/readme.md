@@ -38,7 +38,7 @@ $$\lim_{n\rightarrow\infty}\frac{\sin(x)} {x}= 1$$
 
 *==**<u>Terraria</u>**==*
 
-[![terraria](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnewsimg.5054399.com%2Fuploads%2Fuserup%2F1705%2F0QJ515OQ.jpg&refer=http%3A%2F%2Fnewsimg.5054399.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666364845&t=c51464dda707a3d4719f344142dcdf93 )](https://www.bilibili.com/video/BV1JA411h7Gw/?share_source=copy_web&vd_source=a702d70d47d1117d6b9c67df7d3ccbfc)
+[![terraria](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnewsimg.5054399.com%2Fuploads%2Fuserup%2F1705%2F0QJ515OQ.jpg&refer=http%3A%2F%2Fnewsimg.5054399.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666364845&t=c51464dda707a3d4719f344142dcdf93 )](https://www.bilibili.com/video/BV1N5411p7uc?share_source=copy_web&vd_source=a702d70d47d1117d6b9c67df7d3ccbfc)
 
 ---
 [**我滴任务完成啦**](#任务一)
