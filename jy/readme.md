@@ -27,10 +27,7 @@
 - [x] 宋雨琦（部长的精选照片哟）
 
 ### 数学公式：
-$$
-\lim_{n\rightarrow\infty}\frac{\sin(x)} {x}= 1
-$$
-下标其实应该是x→∞[^下标]
+$$\lim_{n\rightarrow\infty}\frac{\sin(x)} {x}= 1$$
 
 ---
 [b站学习视频](https://www.bilibili.com/video/BV1JA411h7Gw?share_source=copy_web&vd_source=a702d70d47d1117d6b9c67df7d3ccbfc "我学习过程中最喜欢的一个视频")
@@ -46,6 +43,3 @@ $$
 
 ---
 [**我滴任务完成啦**](#任务一)
-
-
-[^下标]:没搜到下标怎么打:sweat_smile:。
