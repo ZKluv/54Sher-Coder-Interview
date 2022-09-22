@@ -28,7 +28,7 @@
 
 ### 数学公式：
 $$
-lim \frac{sin(x)} {x}= 1
+\lim_{n\rightarrow\infty}\frac{\sin(x)} {x}= 1
 $$
 下标其实应该是x→∞[^下标]
 
