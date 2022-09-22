@@ -28,7 +28,7 @@
 
 ### 数学公式：
 $$\lim_{n\rightarrow\infty}\frac{\sin(x)} {x}= 1$$
-
+下标其实应该是x→∞[^下标]
 ---
 [b站学习视频](https://www.bilibili.com/video/BV1JA411h7Gw?share_source=copy_web&vd_source=a702d70d47d1117d6b9c67df7d3ccbfc "我学习过程中最喜欢的一个视频")
 ## 最后
@@ -39,7 +39,8 @@ $$\lim_{n\rightarrow\infty}\frac{\sin(x)} {x}= 1$$
 *==**<u>Terraria</u>**==*
 
 ![terraria](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnewsimg.5054399.com%2Fuploads%2Fuserup%2F1705%2F0QJ515OQ.jpg&refer=http%3A%2F%2Fnewsimg.5054399.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666364845&t=c51464dda707a3d4719f344142dcdf93 "我爱泰拉瑞亚")
-<iframe src='//player.bilibili.com/player.html?aid=458366932&bvid=BV1N5411p7uc&cid=270075511&page=1' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'> </iframe>
+<iframe height=300 width=500 src='//player.bilibili.com/player.html?aid=458366932&bvid=BV1N5411p7uc&cid=270075511&page=1'  > </iframe>
 
 ---
 [**我滴任务完成啦**](#任务一)
+[^下标]:没搜到下标怎么打:sweat_smile:。
