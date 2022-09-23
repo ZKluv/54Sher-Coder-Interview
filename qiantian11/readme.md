@@ -3,6 +3,8 @@
 >我是环境工程2214班的周擎天，面对git以及markdown这样的用于编辑便利生活的软件我有十分强烈的兴趣。  
 ~~我曾接触过数年的c++程序编译并获得大大小小一些奖项~~，但我一直抱有疑惑：我如何在实际生活中运用我所学的c++知识？  
 然后我发现了git和vscode，这属实令我惊喜，因为我所学的知识能够在我的生活中派上用场，接下来就是我的一些学习经历与经验。
+> ## 贴一下我的洛谷空间（c++编程网站）  
+> [我的空间](https://www.luogu.com.cn/user/93010)
 >***
 >> ## __学习git__
 >>我对于git开始还是很陌生的，但当我接触过后，我发现这是如此的熟悉，因为它的语言与Linux是如此相通！![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic2.orsoon.com%2F2017%2F0726%2F20170726033230359.jpg&refer=http%3A%2F%2Fpic2.orsoon.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666337480&t=45817181849822685b380edb30045cc3)  
@@ -24,11 +26,11 @@ remote repository：远程仓库__
 >>> ### __对于markdown的展示__  
 >>> 没啥好说的，如上以及如下咯  
 >>> 来个数学公式：  
->>> ## __$e^{ix}=isinx+cosx$__  
->>> ## __$e^{iπ}+1=0$__  
->>> and  
->>> ## $lim_{x \to ∞} (1+\frac{1}{x})^x=e$  
->>> 刚刚高数课上学习的极限基本公式！！！  
+>>>  $e^{ix}=isinx+cosx$  
+ $e^i+1=0$  
+and  
+$lim_{x \to ∞} (1+\frac{1}{x})^x=e$  
+刚刚高数课上学习的极限基本公式！！！  
 >>> ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.duoziwang.com%2F2019%2F02%2F03231453295395.jpg&refer=http%3A%2F%2Fimg.duoziwang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666533889&t=8df6d4849ec4ae2b9f8d5cc843f5e10e)  
 >> ## __以后想学习的__  
 >>> 当然是了解更多关于编程的实践以及对git的运用，主要是想在大学里掌握一门课程外的技能，更多的就是想将我之前学到的c++试图运用到现实生活中便利自己，同时积累经验为以后工作做打算。  
