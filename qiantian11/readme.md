@@ -26,11 +26,11 @@ remote repository：远程仓库__
 >>> ### __对于markdown的展示__  
 >>> 没啥好说的，如上以及如下咯  
 >>> 来个数学公式：  
->>>  $e^{ix}=isinx+cosx$  
- $e^i+1=0$  
-and  
-$lim_{x \to ∞} (1+\frac{1}{x})^x=e$  
-刚刚高数课上学习的极限基本公式！！！  
+>>>  ### $e^{ix}=isinx+cosx$  
+>>> ### $e^i+1=0$  
+>>> and  
+>>> ### $lim_{x \to ∞} (1+\frac{1}{x})^x=e$  
+>>> 刚刚高数课上学习的极限基本公式！！！  
 >>> ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.duoziwang.com%2F2019%2F02%2F03231453295395.jpg&refer=http%3A%2F%2Fimg.duoziwang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666533889&t=8df6d4849ec4ae2b9f8d5cc843f5e10e)  
 >> ## __以后想学习的__  
 >>> 当然是了解更多关于编程的实践以及对git的运用，主要是想在大学里掌握一门课程外的技能，更多的就是想将我之前学到的c++试图运用到现实生活中便利自己，同时积累经验为以后工作做打算。  
