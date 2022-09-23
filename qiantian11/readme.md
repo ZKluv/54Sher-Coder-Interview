@@ -27,7 +27,7 @@ remote repository：远程仓库__
 >>> ## __$e^{ix}=isinx+cosx$__  
 >>> ## __$e^i+1=0$__  
 >>> and  
->>> ## __$lim_{x \to ∞} (1+\frac{1}{x})^x=e$__  
+>>> ## $lim_{x \to ∞} (1+\frac{1}{x})^x=e$  
 >>> 刚刚高数课上学习的极限基本公式！！！  
 >>> ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.duoziwang.com%2F2019%2F02%2F03231453295395.jpg&refer=http%3A%2F%2Fimg.duoziwang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1666533889&t=8df6d4849ec4ae2b9f8d5cc843f5e10e)  
 >> ## __以后想学习的__  
