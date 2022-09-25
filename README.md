@@ -1,92 +1,117 @@
-# 升华工作室程序部2022招新二面题目
-
-晚霞后的夏夜还带着一丝燥热，星空下的毓秀楼怀揣着大家对coding的热爱。
-
-我们有幸在九月的长沙见面，诸位给我们留下了非常深刻的印象。
-
-祝贺各位凭借自己优秀的表现顺利通过了程序部的第一轮面试！
-
-在接下来的近三周时间，我们将通过两个任务来考察大家的学习能力和问题解决能力。希望各位能够继续保持一面的状态，出色地完成任务。
-
-以下为两个任务的具体要求，胜利就在前方，冲冲冲！
-
-### 一、任务一
-
-我们的开发工作从来不是单打独斗，在程序部的日常开发中，合作是必不可少的，而如何同步大家的进度就是一个需要关注的问题。大家或许听说过Github这个名词，它是一个在线的代码托管平台，可以将代码托管在上面（你现在看到的这个页面就是Github里的页面）。Git是一个版本管理工具，我们可以通过Git进行版本的管理与代码文件的上传。因此，熟练掌握Git和Github的使用就是大家进入程序部之前的必修课，那么任务一就围绕着这两个工具展开：
-
-1. 注册一个自己的Github账号
-2. 了解Git的概念，学习使用Git进行版本的管理和代码的上传
-3. 学习使用Markdown语法进行文档的编辑
-4. 在本仓库中添加一个以自己**名字或昵称或网名**命名的文件夹，文件夹里包含一个命名为README.md的文件，文件内容要求：
-   - 讲述自己学习git的过程、经历和实践
-   - 讲述自己学习Markdown的过程、经历和实践，以及成果展示(各种Markdown语法的使用)
-   - 讲述自己进入程序部后想要学习的内容（包含但不限于编程语言、框架、技术等）
-   - 以上内容需使用Markdown编写
-
-- #### 任务一的附加说明
-
-
-1. 保证自己在本次任务的完成过程中**诚信、文明、友善且所交付的内容不涉及任何违法元素** 
-2. 如果违反上一条中的约束，程序部有权取消违约者的面试资格
-3. 任务样例见本仓库 `example` 目录
-4. 第4条任务中文件夹的命名必须具有标示性，即能让负责考评的同学知道你是谁（为保护大家的隐私，建议使用QQ昵称）
-5. 你可以使用你想到的任何方法进行学习，包括但不限于：百度、B站、CSDN、博客园、请教、购买课程（非常不推荐）。通过各种方法进行学习是之后工作中的重要技能之一
-6. 该任务为线上考核，负责考核的同学对本任务具有解释的权利
-7. 关于提交：在完成README.md后，要先将本仓库fork到自己的repo里，然后提交pull request
-8. 关于提交时间，各位需要在十月一日前进行提交，精确截止时间为10月1日00:00
-
-- #### 任务一的资源导航
-
-  - Github [🔗传送门](https://github.com/)
-  - git官网 [🔗传送门](https://git-scm.com/)
-  - 廖雪峰 git教程 [🔗传送门](https://www.liaoxuefeng.com/wiki/896043488029600)
-  - 菜鸟教程 git教程 [🔗传送门](https://www.runoob.com/git/git-tutorial.html)
-  - 菜鸟教程 Markdown教程 [🔗传送门](https://www.runoob.com/markdown/md-tutorial.html)
-
-
-
-### 二、任务二
-
-大家应该已经知道，程序部的日常工作是进行web开发。虽然我们也会进行各种各样的技术的探索，包括并且不限于游戏开发，爬虫技术，数据可视化。
-但是我们的本职的工作**前端**和**后端**是我们每一位都要掌握的技术。考虑到大家都是刚刚接触Web开发，后端的种种配置较为复杂，且需要至少一门编程语言的熟练运用。
-我们本次的考核就是两项
-#### 1.进行一个页面的开发，*希望大家可以学习到***HTML，CSS，JavaScript***这些基本的前端开发技术。*
-
-##### *具体详细要求*
-- 1.希望该网页可实现的轮播图效果
-- 2.可拓展项目：如引入Vue.js等（非必须）
-- 3.发挥自己的创意，内容不限，除了必须实现轮播图外，其他请发挥出你们的创意
-
-#### 2.进行Python的学习，*希望大家可以使用到Python创造出属于自己的有趣的项目*
-##### *具体详细要求*
-- 1.无内容要求，请发挥你的创意。
-
-请你按照上面的要求进行概念的学习与理解，且**给出一定的实践**
-
-
-- 注意事项
-  - 在展示环节时，请更多的给出自己的理解，不要大量照搬网上的文字
-  - **请确保独立完成**，严禁抄袭
-- #### 任务二的资源导航
-
-  - 菜鸟教程 HTML教程 [🔗传送门](https://www.runoob.com/html/html-tutorial.html)
-  - 菜鸟教程 CSS教程 [🔗传送门](https://www.runoob.com/css/css-tutorial.html)
-  - 菜鸟教程 JavaScript教程[🔗传送门](https://www.runoob.com/js/js-tutorial.html)
-  - B站 Pink html+css[🔗传送门](https://www.bilibili.com/video/BV14J4114768)
-  - B站 Pink JavaScript [🔗传送门](https://www.bilibili.com/video/BV1Sy4y1C7ha)
-  - 廖雪峰 Python教程 [🔗传送门](https://www.liaoxuefeng.com/wiki/1016959663602400)
-
-任务二的考核方式为线下展示（presentation），请准备好展示用的ppt和实践成果，并在展示时讲述一下**自己的学习心得和体会**，你需要做好准备来展示自己的任务成果
-
-#### 面试的时间地点安排：
-
-- 时间:10月7日（星期五）（考虑到CSU还未确定国庆假期时间，目前时间暂定于此）
-- 地点：初步定为毓秀楼409（如果有改变或其他事情会第一时间通知大家）
-
-
- ```纸上得来终觉浅，绝知此事要躬行 ```
-
-
-接下来的近三周时间大家将经历学校正常课程和国庆假期，请劳逸结合，自行安排空闲时间完成任务，预祝大家学业顺利以及拥有一个充实的国庆假期😊！
-
-相信我们马上就会再次见面！
+# **任务一完成报告**
+## ——报告人：计通1504**李剑创**
+---
+# 1. 学习**git**的过程
+* 个人学git的征途有点坎坷，主要是对git定位认知的不清晰导致，使得我一开始看git相关文档时便觉得云里雾里的，所以我最后是结合“b站”资源进行学习的；
+* 先是git的安装内容，在电脑上会并存git Bash，git CMD，git GUI,所有内容都只使用了git Bash；
+* 再就是git一些常用的指令（基本与Linus的指令一致），如下：
+    * cd：改变目录
+    * cd回退默认目录
+    * cd..回退上一目录
+    * pwd：显示当前目录路径
+    * Is:列出目录所以文件
+    * touch：新建一个文件
+    * rm：删除一个文件
+    * mkdir：新建一个目录（文件夹）
+    * rm -r：删除一个目录（文件夹）
+    * （注意：rm -rf删除所有文件，避免用！）
+    * mv 移动文件
+    * reset 初始化
+    * clear 清屏
+    * (一般reset 和 clear不作详细区分)
+    * history 查看过去指令历史
+    * help 帮助
+    * exit 退出
+    * #表示注释
+* （目前也就是记下这些指令并会简单运用）
+* 最后，学完git后个人对git的感觉就是能较快较精准的建立，修改文件，以及运用history可对过去的改动了解个大概；尚未体验到那种分布式好处的感受（这也是以后经常碰到的吧！）
+---
+# 2. 学习**Markdown**的过程
+* 学习资源就是 [菜鸟教程，Markdown](https://www.runoob.com/markdown/md-tutorial.html)
+* 先是完成关于**Markdown**教程的通篇阅读，了解了Markdown的诸多功能；
+* 再是下载了 [VSCode](https://code.visualstudio.com/download)的编译器；
+* 之后就是用VSCode完成了**Markdown**教程的例子
+    * 当然在操作过程中需要在VSCode里面下载一些安装包
+    * 主要安装的是“Markdown preview Enhanced v0.6.3”,"Markdown All in One v3.4.3"等；
+* 最后谈谈对学习**Markdown**的看法，个人觉得新人借助 [菜鸟教程，Markdown](https://www.runoob.com/markdown/md-tutorial.html)和百度便可以很快完成这个小任务滴！
+---
+# 3. 学习**Markdown**的实践
+* ## 学习过后，Markdown用于文本编辑显然优势巨大
+    * 以下是关于Markdown标题，字体，分割线，删除线，下划线，脚注，区块用于英语文本阅读的具体展示
+  
+    Modern Technologies
+    ===
+    现代科技
+    ---
+　　We’re all enjoying the conveniences and happiness brought by modern technologies. We use telephones and mobile phones to call, emails to write and vehicles to drive; we go to another country by air planes; we see what is happening in the world by <u>TV programs and Internet</u>, and we even watch sports games on live. Nowadays, without these technologies, I can’t imagine what my life could be.
+---
+　　I used to read an article describing the modern lives of human beings. It says we will have many phone numbers if we want to search for one person; we send <u>emails and cell phone messages</u> to our friends in stead of visiting them. More and more people would rather sit in front of a computer than a TV. And we seldom go to libraries to check information now, because the Internet would do all the jobs.
+---
+　　We use <u>digital cameras, scanners, photocopiers, blue teeth technology and digital signals for our cell phones…</u> It seems as if we were living in a real digital world. Actually I guess we are, though. Since we are so developed and advanced, why we are less civilized?
+---
+　　We are easily mad with our broken computers; we fed up with things we don’t like; we call our lovers to say “farewell and good-bye” and we are afraid to face the facts which are cruel and real. We’re led to a trend that there will no more face-to-face communications. I would rather chat with my friends with <u>OICQ and emails</u> these years, instead of seeing them in reality.
+---
+　　I hide myself inside my car so that I can flee away from dirt, air pollutions, robberies, thieves, winds, rains and snows. However, I could not taste the spring rain and the winter snow either. The nature is fleeing away from me too!
+--- 
+　　Should I thank modern technologies or blame them? I wonder if you have got the right answer.
+---文字讲述的是科技于人类的~~好处~~影响以及人类接下应做的反思
+* ### 以上便是部分Markdown的文档编辑功能；
+* ## 接下来就是真正让我新奇的新玩意了；
+    * 首先就是名称加链接，具体格式为 [名称] (链接)
+    像前面的菜鸟教程：[菜鸟教程，Markdown](https://www.runoob.com/markdown/md-tutorial.html)，再如我找的英语文章：[现代科技，English article](https://www.oh100.com/read/1401338.html),这些都是新奇的东西；
+    * 接着是表格的制作，依据文档例子我编辑一个：
+---
+ 学号 | 姓名 | 入学成绩 | 最终成绩 
+-|-|-|-
+ x |  
+ x |
+ x |
+* ## 补充
+    * 最后当然是一些高级操作啦
+    如：按<kbd>win</kbd>+<kbd>R</kbd>打开运行框，输入*dxdiag*查看电脑信息
+    再如：$f(x) = sin(x)$,$f(x) = ln(x)$;
+    又如例子中的：
+$$
+\begin{Bmatrix}
+   a & b \\
+   c & d
+\end{Bmatrix}
+$$
+$$
+\begin{CD}
+   A @>a>> B \\
+@VbVV @AAcA \\
+   C @= D
+\end{CD}
+$$
+    依上本人简单模仿一下：
+$$
+\begin{Bmatrix}
+     &   & z &   &   \\
+     &   & z &   &   \\
+   z & z & z & z & z \\
+   z &   & z &   & z \\
+   z & z & z & z & z \\
+     &   & z &   &   \\
+     &   & z &   &   \\
+     &   & z &   &   \\  
+\end{Bmatrix}
+$$
+$$
+\begin{Bmatrix}
+     &   & n &   &   \\
+     & n & n & n &   \\
+     &   & n &   &   \\
+   n & n & n & n & n \\
+   n & n &   & n & n \\
+   n &   & n &   & n \\
+   n & n & n & n & n \\
+   n &   & n &   & n \\  
+\end{Bmatrix}
+$$
+---
+# 4. 进入程序部之后想学的东西
+* 首先当然是最最最有趣的软件制作了，目前计算机主修C语言，见过能运行的巅峰便是**贪吃蛇**的小游戏，希望可以学到音频同步的唯美程序；
+* 其次就是了解各个编程语言的大概框架和适合范围；
+* 最后当然是和同伴们一起协作完成任务啦！
+---
